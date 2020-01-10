@@ -26,11 +26,11 @@ Many thanks to David to explain nicely this concept in the article: http://detec
 
 ### Explanations for various common Windows processes
 
-* ccEvtMrg.exe 
-This process is part of with Symantec’s Internet Security Suite. Keep it and protect your PC.
+* ccEvtMrg.exe
+  This process is part of with Symantec’s Internet Security Suite. Keep it and protect your PC.
 
 * ccSetMgr.exe 
-This process is associated with Symantec’s Internet Security Suite. Keep it and protect your PC.
+  This process is associated with Symantec’s Internet Security Suite. Keep it and protect your PC.
 
 * csrss.exe
 This is a system process that is the main executable for the Microsoft Client / Server Runtim Server Subsystem. It should not be shut down.
@@ -45,21 +45,21 @@ This process starts running when you run Internet Explorer browser.
 Local Security Authority Service is a Windows security-related system process for handling local security and login policies.
 
 * rundll32.exe 
-A system process that executes DLLs and loads their libraries.
+  A system process that executes DLLs and loads their libraries.
 
 * services.exe 
-An essential process that manages the starting and stopping of services including the those in boot up and shut down. 
+ An essential process that manages the starting and stopping of services including the those in boot up and shut down. 
 
 * smss.exe 
-Session Manager SubSystem is a system process that is a central part of the Windows operating system.
+ Session Manager SubSystem is a system process that is a central part of the Windows operating system.
 
 * spoolsv.exe 
-This process manages Microsoft printer spooler service and handles local printer processes.
+ This process manages Microsoft printer spooler service and handles local printer processes.
 
 * svchost.exe 
-You may have more than one appearances of this process to handle processes executed from DLLs.
+ You may have more than one appearances of this process to handle processes executed from DLLs.
 
-* System
+* System 
 This process generates a file that stores information related to local hardware settings in the registry under ‘HKEY_LOCAL_MACHINE’.
 
 * System Idele Process
