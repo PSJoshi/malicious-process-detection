@@ -68,14 +68,11 @@ This calculates the amount of CPU currently in use by applications.
 * taskmgr.exe 
 This process comes alive when you press Ctrl+Alt+Del.
 
-* wdfmgr.exe  
-This process is associated with Windows Driver Foundation Manager and is part of Windows media player 10 and newer. 
+* wdfmgr.exe This process is associated with Windows Driver Foundation Manager and is part of Windows media player 10 and newer. 
 
-* winlogon.exe
-This process handles the login and logout processes.
+* winlogon.exe This process handles the login and logout processes.
 
-* winword.exe
-This process runs Microsoft Windows Word application.
+* winword.exe This process runs Microsoft Windows Word application.
 
 
 ### Interesting links:
