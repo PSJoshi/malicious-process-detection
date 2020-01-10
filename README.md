@@ -44,7 +44,8 @@ This process starts running when you run Internet Explorer browser.
 * lsass.exe
 Local Security Authority Service is a Windows security-related system process for handling local security and login policies.
 
-rundll32.exe – A system process that executes DLLs and loads their libraries.
+* rundll32.exe 
+A system process that executes DLLs and loads their libraries.
 
 * services.exe 
 An essential process that manages the starting and stopping of services including the those in boot up and shut down. 
