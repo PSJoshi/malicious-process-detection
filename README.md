@@ -80,5 +80,6 @@ This process comes alive when you press Ctrl+Alt+Del.
 * Standard Windows process list - https://www.andreafortuna.org/2017/06/15/standard-windows-processes-a-brief-reference/
 * Ensemble approach for large scale fuzzy matching - https://medium.com/bcggamma/an-ensemble-approach-to-large-scale-fuzzy-name-matching-b3e3fa124e3c
 * Finding text similarity in python - https://stackabuse.com/levenshtein-distance-and-text-similarity-in-python/
-
+* Windows 7 default process list - https://social.technet.microsoft.com/wiki/contents/articles/4485.windows-7-default-system-processes.aspx
+* List of default processes - https://www.oreilly.com/library/view/windows-server-cookbook/0596006330/ape.html
 
